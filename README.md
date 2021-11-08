@@ -1,2 +1,2 @@
-# grythm-source-code
+# musicbot-source-code
 Music Bot Source Code
