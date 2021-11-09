@@ -1,2 +1,2 @@
-# musicbot-source-code
-Music Bot Source Code
+# [REDACTED]-source-code
+[REDACTED] Source Code
